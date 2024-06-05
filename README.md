@@ -1,6 +1,6 @@
 PIMOSH Networks Internship Project
 
-Front End Members:
+Members of This Organization:
 1. Alena
 2. Laleen
 3. Numa
